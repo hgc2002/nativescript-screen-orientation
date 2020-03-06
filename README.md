@@ -1,10 +1,17 @@
 
+Forked and tested in NS 6.2.0 for Android and it goes perfectly.
+
+I've used the Vanilla example on VueJS and it works fine.
+
+**I've not tested it in iOS at all, yet.**
+
+---------------------------
 
 A plugin to force change the orientation of a page programmatically in NativeScript. Supports both Android and iOS. **V2.0 works on iOS10.x, angular, xcode 8 and  webpack.**
 
 ---------------------------
 
-Code Sample (VanillaJS)
+Code Sample (VanillaJS and VueJS)
 ===========
 
   
@@ -24,8 +31,6 @@ Code Sample (VanillaJS)
     exports.pageLoad=pageLoaded;
     exports.onNavigatingFrom=onNavigatingFrom;
 
-
-----------
 
 ---------------------------
 
